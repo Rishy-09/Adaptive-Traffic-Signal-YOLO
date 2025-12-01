@@ -1,0 +1,7 @@
+# Ignore large data files
+data/*.avi
+# If your model is >100MB, uncomment the next line
+# data/*.pt
+__pycache__/
+.ipynb_checkpoints/
+.env
