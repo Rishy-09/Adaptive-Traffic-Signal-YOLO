@@ -280,7 +280,7 @@ This repository uses the MIT license. See `LICENSE` file.
 Group members: add GitHub handles in `CONTRIBUTORS.md` or below:
 
 * Member 1 — [@Rishy-09](https://github.com/Rishy-09)
-* Member 2 — [@Teammate1](https://github.com/Teammate1)
+* Member 2 — [@MoHiT05os](https://github.com/MoHiT05os)
 * Member 3 — [@Teammate2](https://github.com/Teammate2)
 * Member 4 — [@Teammate3](https://github.com/Teammate3)
 
