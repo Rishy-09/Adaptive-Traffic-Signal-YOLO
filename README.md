@@ -281,6 +281,5 @@ Group members: add GitHub handles in `CONTRIBUTORS.md` or below:
 
 * Member 1 — [@Rishy-09](https://github.com/Rishy-09)
 * Member 2 — [@MoHiT05os](https://github.com/MoHiT05os)
-* Member 3 — [@Teammate2](https://github.com/Teammate2)
-* Member 4 — [@Teammate3](https://github.com/Teammate3)
-
+* Member 3 — [@shubh-bhateja](https://github.com/shubh-bhateja)
+* Member 4 — [@Ishika0424](https://github.com/Ishika0424)
